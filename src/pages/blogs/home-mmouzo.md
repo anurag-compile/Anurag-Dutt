@@ -1,5 +1,5 @@
 ---
-title: Understanding Azure VPN Tunnel Architectures: Site-to-Site vs Site-to-Multi-Site vs Point-to-Site
+title: Understanding Azure VPN Tunnel Architectures- Site-to-Site vs Site-to-Multi-Site vs Point-to-Site
 date: May 19, 2025
 url: https://duttanurag.hashnode.dev/understanding-azure-vpn-tunnel-architectures-site-to-site-vs-site-to-multi-site-vs-point-to-site
 url_name: read here
