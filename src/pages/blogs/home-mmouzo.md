@@ -1,8 +1,8 @@
 ---
-title: The Crew
-date: 11/2022 - Present
-url: http://em.gl/giw
+title: Understanding Azure VPN Tunnel Architectures: Site-to-Site vs Site-to-Multi-Site vs Point-to-Site
+date: May 19, 2025
+url: [http://em.gl/giw](https://duttanurag.hashnode.dev/understanding-azure-vpn-tunnel-architectures-site-to-site-vs-site-to-multi-site-vs-point-to-site)
 url_name: em.gl
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+In this blog, we’ll explore the three core VPN tunnel architectures in Azure—Site-to-Site, Site-to-Multi-Site, and Point-to-Site—and when to use each. We’ll also include advanced options like VNet-to-VNet and coexisting ExpressRoute with VPN for a complete picture.
