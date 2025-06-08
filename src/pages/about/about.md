@@ -1,10 +1,10 @@
 ---
 title: about
-name: "Cezar Kelso"
-designation: "Senior Detective"
-location: Los Angeles, CA 90001
-pronouns: "he/him/el"
-website: "http://tafutza.hn/kos"
+name: "Anurag Dutt"
+designation: "Cloud Engineer"
+location: New Delhi, India
+pronouns: "he/him"
+company: "Atos"
 ---
 
-Highly skilled and experienced law enforcement professional with over two decades of service in various specialized units. Adept at conducting complex investigations, coordinating tactical operations, and providing leadership in high-pressure situations. Known for exceptional problem-solving abilities, strategic thinking, and dedication to upholding the law. Seeking opportunities to leverage expertise in a challenging environment where I can continue to make a meaningful impact.
+Cloud Engineer at Atos with hands-on expertise in Azure, AWS, and GCP. Experienced in deploying Kubernetes clusters (AKS, EKS, GKE), automating pipelines, securing cloud environments, and working with modern tools like Azure AI Studio, Terraform, and Microsoft Intune.
